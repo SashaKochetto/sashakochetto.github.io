@@ -1,3 +1,41 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 15px;
+    background: #218018;
+    box-shadow: 0px 10px 10px gray;
+    font-size: 24px;
+}
+
+body h3{
+    font-size: 24px;
+    padding: 20px 0px 0px 0px;
+}
+
+.subtitle{
+    color: gray;
+    padding: 15px 0px 0px 0px;
+}
+
+.subtitle2{
+    padding: 0px 0px 15px 0px;
+}
+
+.subtitle3{
+    font-size: 24px;
+    padding: 15px 0px 0px 0px;
+}
+
+.ctext{
+    font-size: 18px;
+=======
 header{
 	border: 5px solid gray;
 }
