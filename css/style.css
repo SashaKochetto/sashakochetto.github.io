@@ -21,7 +21,6 @@ body h3{
 
 .subtitle{
     color: gray;
-    padding: 15px 0px 0px 0px;
 }
 
 .subtitle2{
@@ -35,4 +34,8 @@ body h3{
 
 .ctext{
     font-size: 18px;
+}
+
+main{
+    padding: 15px;
 }
