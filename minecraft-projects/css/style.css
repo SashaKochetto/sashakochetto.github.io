@@ -59,6 +59,15 @@ main{
 	background: #303030;
 }
 
+main a {
+    text-decoration: none;
+    color: #ccc;
+}
+
+main a p{
+    margin-top: 10px;
+}
+
 /*section{ width: 100%; height: 480px; padding-bottom: 15px;}*/
 main div{
 	width: 100%;
