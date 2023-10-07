@@ -9,6 +9,7 @@ html, body{ height: 100%; }
 .fl{ display: flex }
 .fl-col{ flex-direction: column; }
 .fl-row{ flex-direction: row; }
+.fl-row-r{ flex-direction: row-reverse; }
 .wrap{ flex-wrap: wrap; }
 .align-center{ align-items: center; }
 
@@ -38,7 +39,26 @@ header p{
 	font-size: 64px;
 }
 
+header div{
+	width: 100%;
+}
+
 .subtitle{ font-size: 45px; }
+
+header div a{
+	text-decoration: none;
+	color: #303030;
+	background: #ccc;
+	font-size: 24px;
+	padding: 5px 15px 5px 15px;
+	font-family: arial;
+	transition: 0.3s;
+}
+
+header div a:hover{
+	background: #303030;
+	color: #ccc;
+}
 
 main{
 	width: 100%;
@@ -54,6 +74,7 @@ main div p{
 }
 
 /*main a{
+	text-decoration: none;
 	width: 350px;
 	height: 450px;
 	border: 1px solid white;
