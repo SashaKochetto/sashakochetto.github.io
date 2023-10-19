@@ -1,0 +1,10 @@
+[
+	{
+		"APP_VERSION": [0, 0, 0],
+		"LOW_FILE_MANAGER": {
+			"download": "",
+			"rem_files": [],
+			"rem_dirs": []
+		}
+	}
+]
