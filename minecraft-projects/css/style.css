@@ -74,6 +74,7 @@ main div{
 main div a{
 	border: 5px solid #242424;
 	width: 350px;
+	min-width: 350px;
 	height: 450px;
 	margin: 73px;
 	transition: 0.3s;
