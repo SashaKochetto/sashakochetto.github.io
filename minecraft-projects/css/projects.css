@@ -60,6 +60,10 @@ main{
 	padding: 30px;
 }
 
+footer{
+	background: #303030;
+}
+
 .wrapper{ width: 100%; }
 
 .wrapper div{

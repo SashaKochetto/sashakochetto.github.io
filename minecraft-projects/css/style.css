@@ -87,3 +87,5 @@ main div a img{
 main div a:hover{
 	transform: scale(1.2);
 }
+
+section{ border: 2px solid #fff }
